@@ -4,7 +4,7 @@ import shutil
 import yaml
 from tqdm import tqdm
 # 域名
-domain = "emoticons.hzchu.top"
+domain = "emoticons.flyalready.com"
 
 # 获取当前目录路径
 current_dir = os.getcwd()
