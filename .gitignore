@@ -2,3 +2,4 @@
 json/
 .edgeone/
 Icon?
+__pycache__
