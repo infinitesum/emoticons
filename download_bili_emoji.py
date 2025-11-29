@@ -120,15 +120,18 @@ class BiliEmojiDownloader:
             original_filename = image_url.split('/')[-1].split('?')[0]
             ext = '.' + original_filename.split('.')[-1] if '.' in original_filename else '.png'
             
-            # 使用 alias 的拼音作为文件名
-            pinyin_name = ''.join(lazy_pinyin(alias))
-            filename = f"{pinyin_name}{ext}"
+            # 使用数字作为文件名
+            filename = f"{idx}{ext}"
             save_path = save_dir / filename
+            
+            # alias 格式: 中文_拼音
+            pinyin_name = ''.join(lazy_pinyin(alias))
+            alias_with_pinyin = f"{alias}_{pinyin_name}"
             
             print(f"  [{idx}/{len(package['emotes'])}] 下载 {alias}... ", end='')
             
             if await self.download_image(image_url, save_path):
-                aliases[filename] = alias
+                aliases[filename] = alias_with_pinyin
                 print("✓")
             else:
                 print("✗")
