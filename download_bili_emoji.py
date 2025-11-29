@@ -116,16 +116,13 @@ class BiliEmojiDownloader:
             image_url = emote['url']
             alias = emote['meta'].get('alias', f'表情{idx}')
             
-            # 判断文件扩展名
-            ext = '.png'  # 默认 png
-            if 'webp' in image_url:
-                ext = '.webp'
-            elif 'gif' in image_url:
-                ext = '.gif'
-            elif 'apng' in image_url:
-                ext = '.apng'
+            # 从 URL 中提取文件扩展名
+            original_filename = image_url.split('/')[-1].split('?')[0]
+            ext = '.' + original_filename.split('.')[-1] if '.' in original_filename else '.png'
             
-            filename = f"{idx}{ext}"
+            # 使用 alias 的拼音作为文件名
+            pinyin_name = ''.join(lazy_pinyin(alias))
+            filename = f"{pinyin_name}{ext}"
             save_path = save_dir / filename
             
             print(f"  [{idx}/{len(package['emotes'])}] 下载 {alias}... ", end='')
