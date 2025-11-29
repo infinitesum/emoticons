@@ -1,0 +1,67 @@
+{
+    "豆姆蛙": {
+        "type": "image",
+        "container": [
+            {
+                "text": "dou-mu-wa_偷看_toukan",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/10.png'>"
+            },
+            {
+                "text": "dou-mu-wa_干杯_ganbei",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/8.png'>"
+            },
+            {
+                "text": "dou-mu-wa_我也_woye",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/3.png'>"
+            },
+            {
+                "text": "dou-mu-wa_洗澡_xizao",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/1.png'>"
+            },
+            {
+                "text": "dou-mu-wa_顶呱呱_dingguagua",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/2.png'>"
+            },
+            {
+                "text": "dou-mu-wa_思考_sikao",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/9.png'>"
+            },
+            {
+                "text": "dou-mu-wa_送你_songni",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/15.png'>"
+            },
+            {
+                "text": "dou-mu-wa_头大_touda",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/4.png'>"
+            },
+            {
+                "text": "dou-mu-wa_啊_a",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/14.png'>"
+            },
+            {
+                "text": "dou-mu-wa_就这_jiuzhe",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/11.png'>"
+            },
+            {
+                "text": "dou-mu-wa_喜欢_xihuan",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/7.png'>"
+            },
+            {
+                "text": "dou-mu-wa_哇_wa",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/6.png'>"
+            },
+            {
+                "text": "dou-mu-wa_好方_haofang",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/13.png'>"
+            },
+            {
+                "text": "dou-mu-wa_哭哭_kuku",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/5.png'>"
+            },
+            {
+                "text": "dou-mu-wa_太棒啦_taibangla",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa/12.png'>"
+            }
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "name": "崔高兴日历符卡",
+    "type": "image",
+    "items": [
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_困_kun",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/10.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_哈哈哈_hahaha",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/8.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_颤抖_chandou",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/3.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_乖巧_guaiqiao",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/1.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_比心_bixin",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/2.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_生气_shengqi",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/9.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_躺_tang",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/15.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_麻了_male",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/18.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_期待_qidai",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/4.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_呵呵_hehe",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/14.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_恼怒_naonu",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/11.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_疑惑_yihuo",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/19.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_谁先来_shuixianlai",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/17.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_钱来_qianlai",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/16.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_惊讶_jingya",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/20.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_摔倒_shuaidao",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/7.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_生日快乐_shengrikuaile",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/6.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_心虚_xinxu",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/13.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_喵_miao",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/5.png"
+        },
+        {
+            "key": "cui-gao-xing-ri-li-fu-ka_哭_ku",
+            "val": "https://emoticons.flyalready.com/emoticons/cui-gao-xing-ri-li-fu-ka/12.png"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "豆姆蛙表情": {
+        "type": "image",
+        "container": [
+            {
+                "text": "dou-mu-wa-biao-qing_开心_kaixin",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/10.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_劈叉_picha",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/8.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_博学_boxue",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/3.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_听歌_tingge",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/1.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_吹口哨_chuikoushao",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/2.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_强壮_qiangzhuang",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/9.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_戴眼镜_daiyanjing",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/15.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_喝茶_hecha",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/18.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_go_go",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/4.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_惬意_qieyi",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/14.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_哭_ku",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/11.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_比心_bixin",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/19.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_嘿嘿_heihei",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/17.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_熬夜_aoye",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/16.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_思考_sikao",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/20.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_瞥_pie",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/7.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_害羞_haixiu",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/6.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_我吗_woma",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/13.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_呀比_yabi",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/5.png'>"
+            },
+            {
+                "text": "dou-mu-wa-biao-qing_爱心_aixin",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/dou-mu-wa-biao-qing/12.png'>"
+            }
+        ]
+    }
+}

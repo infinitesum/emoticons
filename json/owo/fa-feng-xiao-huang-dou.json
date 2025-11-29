@@ -1,0 +1,87 @@
+{
+    "发疯小黄豆": {
+        "type": "image",
+        "container": [
+            {
+                "text": "fa-feng-xiao-huang-dou_崩溃_bengkui",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/10.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_去哪？_quna？",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/8.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_报警_baojing",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/3.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_ok_ok",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/1.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_我选择_woxuanze",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/2.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_摸鱼_moyu",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/9.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_回家_huijia",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/15.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_真正打工人_zhenzhengdagongren",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/18.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_命苦_mingku",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/4.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_啊_a",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/14.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_鲨鲨_shasha",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/11.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_收到_shoudao",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/19.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_虚假打工人_xujiadagongren",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/17.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_摸摸_momo",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/16.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_一拍即合_yipaijihe",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/20.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_好的_haode",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/7.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_人生态度_renshengtaidu",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/6.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_牛_niu",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/13.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_单推人民币_dantuirenminbi",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/5.png'>"
+            },
+            {
+                "text": "fa-feng-xiao-huang-dou_打工人_dagongren",
+                "icon": "<img src='https://emoticons.flyalready.com/emoticons/fa-feng-xiao-huang-dou/12.png'>"
+            }
+        ]
+    }
+}
